@@ -1,0 +1,1 @@
+object.onkeypress = function(){myScript};

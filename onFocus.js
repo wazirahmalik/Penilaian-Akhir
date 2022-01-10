@@ -1,0 +1,1 @@
+object.onfocus = function(){myScript};

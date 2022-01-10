@@ -1,0 +1,1 @@
+object.onblur = function(){myScript};
